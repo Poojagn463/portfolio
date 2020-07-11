@@ -1,0 +1,65 @@
+.profile{
+  background-color: #001427;
+  text-align: center;
+  height:85vh;/* vh=vertical height */
+  min-height:200px;
+  padding-top:25vh;
+}
+#img{
+  border-radius: 50%;
+}
+.achievements{
+  background-color: #9CE8E3;
+  padding:50px 50px 50px 50px;
+  text-align: center;
+
+}
+#ach h2{
+  font-family: 'Lobster';
+  font-size: 250%;
+}
+#hed h2{
+  font-family: 'Lobster', cursive;
+  font-size: 250%;
+  color:#FAEDCB;
+
+}
+#hed p{
+  font-size: 200%;
+  color:#FAEDCB;
+
+}
+.skills{
+  background-color:#F7D9C4;
+  padding:50px 50px 50px 50px;
+  text-align: center;
+
+}
+#sl h2{
+  font-family: 'Lobster', cursive;
+  font-size: 250%;
+}
+#edu h2{
+  font-family: 'Lobster', cursive;
+  font-size: 250%;
+}
+.education{
+  background-color:#9CE8E3;
+  padding:50px 50px 50px 50px;
+  text-align: center;
+}
+.contact{
+  background-color: #001427;
+  text-align: center;
+  height:40vh;/* vh=vertical height */
+  padding:50px 50px 50px 50px;
+
+}
+#con h2{
+  color:#FAEDCB;
+  font-family: 'Lobster', cursive;
+  font-size: 250%;
+}
+#con{
+  color:#FAEDCB;
+}
